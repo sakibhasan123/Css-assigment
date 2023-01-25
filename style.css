@@ -1,0 +1,16 @@
+ol{
+    color:brown;
+    line-height: 35px;
+}
+ul{
+    color: brown;
+  letter-spacing: 5px;
+  word-spacing: 2px;
+}
+p{
+    color: brown;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
